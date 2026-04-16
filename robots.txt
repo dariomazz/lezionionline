@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dariomazz.github.io/lezionionline/sitemap.xml
